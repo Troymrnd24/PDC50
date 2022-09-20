@@ -5,6 +5,7 @@
 
 variables: 
 - group: AzureResourcesVariableGroup
+
 trigger:
 -master:
 
